@@ -1,7 +1,9 @@
 package br.com.eduardo.movieflixtask.components;
 
-import br.com.eduardo.movieflix.entities.User;
-import br.com.eduardo.movieflix.repositories.UserRepository;
+
+
+import br.com.eduardo.movieflixtask.entities.User;
+import br.com.eduardo.movieflixtask.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.oauth2.common.DefaultOAuth2AccessToken;
 import org.springframework.security.oauth2.common.OAuth2AccessToken;

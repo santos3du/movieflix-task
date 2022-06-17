@@ -1,6 +1,6 @@
 package br.com.eduardo.movieflixtask.config;
 
-import br.com.eduardo.movieflix.components.JwtTokenEnhancer;
+import br.com.eduardo.movieflixtask.components.JwtTokenEnhancer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;
